@@ -6,6 +6,9 @@
 ## Meus Commits
 ![Commits](https://img.shields.io/badge/Commits-100-brightgreen)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasdCandido2)](https://github.com/LucasdCandido2/github-readme-stats)
+
+
 ## Sobre Mim
 Após um bom tempo sonhando em me tornar Desenvolvedor, finalmente consegui uma oportunidade e agora estou focado em conseguir refinar as minhas atuais habilidades para poder 
 conseguir me garantir nessa vaga e poder me chamar orgulhosamente de desenvolvedor.
