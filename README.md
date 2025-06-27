@@ -5,7 +5,7 @@ Principais Linguagens
 ![Top Langs](https://github-readme-stats-r6eq8vb9z-lucasdcandido2sprojects.vercel.app/api/top-langs/?
 username=LucasdCandido2&layout=compact&count_private=true)
 
-[![GitHub Streak](https://github-readme-streak-stats-phi-six.vercel.app/?user=LucasdCandido2&theme=dark&hide_border=true )](https://git.io/streak-stats )
+[![GitHub Streak](https://github-readme-streak-stats-ci543o1hs-lucasdcandido2s-projects.vercel.app?user=Lucas%20Dourado%20Candido&theme=dracula&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats-virid-mu-60.vercel.app/api/top-langs/?username=LucasdCandido2&layout=compact&count_private=true )
 
