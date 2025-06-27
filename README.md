@@ -1,15 +1,16 @@
 Olá, eu sou Lucas!
 
 Principais Linguagens
+
 ![Top Langs](https://github-readme-stats-r6eq8vb9z-lucasdcandido2sprojects.vercel.app/api/top-langs/?
 username=LucasdCandido2&layout=compact&count_private=true)
 
 Minhas Estatísticas do GitHub
-[![GitHub Streak](https://github-readme-streak-stats-6glkpe9r7-
-lucasdcandido2s-projects.vercel.app/?
-user=LucasdCandido2&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats-ci543o1hs-lucasdcandido2s-projects.vercel.app?user=Lucas%20Dourado%20Candido&theme=dracula&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 Minha Sequência de Contribuições
+
 [![Anurag's GitHub stats]([https://github-readme-stats-r6eq8vb9zlucasdcandido2s-projects.vercel.app/api?
 username=LucasdCandido2&count_private=true](https://github-readme-streak-stats-ci543o1hs-lucasdcandido2s-projects.vercel.app/demo/))]
 (https://github.com/LucasdCandido2/github-readme-stats)
