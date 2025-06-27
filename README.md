@@ -1,12 +1,13 @@
 # Olá, eu sou Lucas!
 
 ## Principais Linguagens
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasdCandido2&layout=compact)
+![Top Langs](https://github-readme-stats-r6eq8vb9z-lucasdcandido2s-projects.vercel.app/api/top-langs/?username=LucasdCandido2&layout=compact&count_private=true )
 
 ## Meus Commits
 ![Commits](https://img.shields.io/badge/Commits-100-brightgreen)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasdCandido2)](https://github.com/LucasdCandido2/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-r6eq8vb9z-lucasdcandido2s-projects.vercel.app/api?username=LucasdCandido2&count_private=true )](https://github.com/LucasdCandido2/github-readme-stats )
+
 
 
 ## Sobre Mim
