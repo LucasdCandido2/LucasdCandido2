@@ -10,8 +10,8 @@ lucasdcandido2s-projects.vercel.app/?
 user=LucasdCandido2&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 Minha Sequência de Contribuições
-[![Anurag's GitHub stats](https://github-readme-stats-r6eq8vb9zlucasdcandido2s-projects.vercel.app/api?
-username=LucasdCandido2&count_private=true)]
+[![Anurag's GitHub stats]([https://github-readme-stats-r6eq8vb9zlucasdcandido2s-projects.vercel.app/api?
+username=LucasdCandido2&count_private=true](https://github-readme-streak-stats-ci543o1hs-lucasdcandido2s-projects.vercel.app/demo/))]
 (https://github.com/LucasdCandido2/github-readme-stats)
 
 Sobre Mim
