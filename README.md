@@ -18,7 +18,7 @@
 [![Tempo de Codificação](https://wakatime.com/badge/user/64ed18b2-04c6-4329-b87f-8d59c59f5906.svg)](https://wakatime.com/@64ed18b2-04c6-4329-b87f-8d59c59f5906)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-700%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-701%20hrs%2031%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -96,7 +96,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LucasdCandido2/LucasdCandido2/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2025 01:08:57 UTC
+ Last Updated on 05/08/2025 01:05:18 UTC
 <!--END_SECTION:waka-->
 
 ## 🔥 Sequência de Contribuições
