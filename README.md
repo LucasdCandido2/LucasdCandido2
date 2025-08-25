@@ -24,8 +24,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 244 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -96,7 +94,7 @@ Less                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LucasdCandido2/LucasdCandido2/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2025 01:02:44 UTC
+ Last Updated on 25/08/2025 00:58:57 UTC
 <!--END_SECTION:waka-->
 
 ## 🔥 Sequência de Contribuições
